@@ -26,7 +26,7 @@
         addTask();
          });
 });
-  } );
+
 
 $(document).ready(main);
 
